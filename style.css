@@ -1,0 +1,29 @@
+body{
+    background-color: blanchedalmond;
+}
+#main{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    text-align: left;
+    
+}
+
+button{
+    background-color: #417593;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    padding: 10px 20px;
+    border: #417593 2px solid;
+    font-weight: bold;
+  
+
+}
+
+ol{
+    text-align: left;
+    font-family: cursive;
+    font-weight: bold;
+    color: #184057;
+}
